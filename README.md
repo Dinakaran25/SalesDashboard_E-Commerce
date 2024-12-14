@@ -12,6 +12,8 @@ Analyze sales by product category, region, and customer segment.
 Compare actual sales to forecasted sales.
 Identify top-selling products and underperforming areas.
 ### Forecasting:
+<img width="1163" alt="Screenshot 2024-12-14 at 4 20 41 PM" src="https://github.com/user-attachments/assets/5a908498-e18a-4d90-8de6-56b4ce85279a" />
+
 Generate accurate sales forecasts using historical data and predictive models.
 Analyze forecast accuracy and adjust models as needed.
 Plan inventory and staffing based on forecasted demand.
